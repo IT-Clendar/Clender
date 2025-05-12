@@ -1,4 +1,4 @@
-# Clender
+# Clendar
 
 2025 AI 융합학부 IT 경진대회 참가 작품
 
